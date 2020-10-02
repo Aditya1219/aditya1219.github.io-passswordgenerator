@@ -5,7 +5,7 @@
 }
 
 body {
-    background-image: url('galaxy.jpg');
+    background-image: url(https://www.solidbackgrounds.com/images/1920x1080/1920x1080-dim-gray-solid-color-background.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     color: white;
@@ -18,7 +18,7 @@ body {
 }
 
 .pw-container {
-    background-color: rgb(46, 12, 80);
+    background-color: whitesmoke;
     box-shadow: 0 4px 10px rgba(0, 0, 0, 0.5);
     min-width: 400px;
     opacity: 0.85;
@@ -29,7 +29,7 @@ body {
 }
 
 .pw {
-    background-color: rgb(69, 28, 109);
+    background-color: rgb(82, 79, 79);
     display: flex;
     font-size: 1.5rem;
     align-items: center;
@@ -66,16 +66,16 @@ body {
 }
 
 .form-control {
-    color: #eee;
+    color: black;
     display: flex;
     justify-content: space-between;
     margin: 0.75rem 0;
 }
 
 .generate {
-    background-color: #ecb602;
+    background-color:  rgb(82, 79, 79);
     border: none;
-    color: rebeccapurple;
+    color: white;
     cursor: pointer;
     display: block;
     font-size: 1.5rem;
